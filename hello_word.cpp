@@ -3,6 +3,7 @@ using namespace std;
 
 int main(){
     string name;
+    //string name;
     cout<<"Введите имя пользоваетеля:";
     cin>>name;
     cout<<"Hello word from"<<name<<endl;
