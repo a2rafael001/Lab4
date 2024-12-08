@@ -1,5 +1,5 @@
 #include <iostream>
-// Delete using namespace std; 
+// Dellete using namespace std; 
 
 int main(){
    
